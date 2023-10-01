@@ -34,8 +34,6 @@ namespace WindowsFormsApp1
             return;
         }
 
-
-
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
             Graphics g = e.Graphics;
